@@ -1,0 +1,39 @@
+@charset "UTF-8";
+header{
+	background: pink;
+	padding:10px;
+	margin:0px;
+	text-align: center;
+}
+menu{
+	background : green;
+	padding:10px;
+	margin:0px;
+}
+section{
+	background : grey;
+	padding:10px;
+	margin:0px;
+	height : 650px;
+	text-align: center;
+}
+footer{
+	background : blue;
+	padding:10px;
+	margin:0px;
+	color:white;
+	text-align: center;
+}
+table{
+	margin-left: auto;
+	margin-right:auto;
+}
+menu a{
+	text-decoration: none;
+	color : white;
+	padding-left:20px;
+}
+section a{
+	text-decoration: none;
+	color : white;
+}
